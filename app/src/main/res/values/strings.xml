@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FireCast1</string>
+    <string name="auth_failed">Authentication Failed</string>
+</resources>
